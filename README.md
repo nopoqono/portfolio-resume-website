@@ -1,2 +1,7 @@
 # portfolio-resume-website
-learning how to build my own resume website 
+
+Basic personal website built with plain HTML and CSS.
+
+## Run locally
+
+Open `index.html` in your browser.
